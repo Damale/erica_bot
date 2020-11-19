@@ -1,1 +1,1 @@
-web: gunicorn botproject.wsgi--lof-file-
+web: ./server.py
